@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_3\PartialApplication-master\cat.PartialApplication-master\dir.PartialApplication-master.md">PartialApplication-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\ind_3\PartialApplication-master\README.md">README.md</a>
+        - *# Partial function application and Currying

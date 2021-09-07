@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<style>
+    /* стили зависят от пользовательского атрибута "order-state" */
+    .order[order-state="new"] {
+        color: green;
+    }
+
+    .order[order-state="pending"] {
+        color: blue;
+    }
+
+    .order[order-state="canceled"] {
+        color: red;
+    }
+</style>
+
+<!-- пометить div, чтобы показать здесь поле "name" -->
+<div show-info="name"></div>
+<!-- а здесь возраст "age" -->
+<div show-info="age"></div>
+
+<div class="order" order-state="new">
+    A new order.
+</div>
+
+<div class="order" order-state="pending">
+    A pending order.
+</div>
+
+<div class="order" order-state="canceled">
+    A canceled order.
+</div>
+
+<div data-my_attribute = "anyMyVolume"></div>
+
+<div data-my-Camel_attribute = "anyMyCamelVolume"></div>
+
+
+
+<script>
+
+    // код находит элемент с пометкой и показывает запрошенную информацию
+    let user = {
+        name: "Pete",
+        age: 25
+    };
+
+    for (let div of document.querySelectorAll('[show-info]')) {
+        // вставить соответствующую информацию в поле
+        let field = div.getAttribute('show-info');
+        div.innerHTML = user[field]; // сначала Pete в name, потом 25 в age
+    }
+
+
+    const div_order = document.querySelectorAll('div.order'); // NodeList(3) [div.order, div.order, div.order]
+    // our property simplify than class
+    div_order[0].setAttribute('order-state', 'canceled')
+    // 'A new order.' will be red because class="order" order-state="canceled"
+
+    const dataset_volume = document.querySelector('div[data-my_attribute = "anyMyVolume"]').dataset.my_attribute //
+    // "anyMyVolume"
+
+    const dataset_Camel_volume = document.querySelector('div[data-my-Camel_attribute = "anyMyCamelVolume"]').dataset.myCamel_attribute//
+    // "anyMyCamelVolume"
+    debugger
+
+</script>
+</body>
+</html>

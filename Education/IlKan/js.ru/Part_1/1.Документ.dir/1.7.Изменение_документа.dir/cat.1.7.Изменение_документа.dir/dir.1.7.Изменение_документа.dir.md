@@ -1,0 +1,7 @@
+- <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.7.Изменение_документа.dir\cat.1.7.Изменение_документа.dir\dir.1.7.Изменение_документа.dir.md">1.7.Изменение_документа.dir</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.7.Изменение_документа.dir\1.7.Изменение_документа.md">1.7.Изменение_документа.md</a>
+        - *# [Изменение документа](https://learn.javascript.ru/modifying-document)
+        - *## The creation of item
+        - *### document.createElement(tag)
+        - *### document.createTextNode(text)
+        - *## Insert methods 

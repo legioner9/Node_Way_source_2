@@ -1,0 +1,6 @@
+[alias]
+	echoGitconfig = !echo \"this is result project/gitconfig alias!\"
+	upp = update-index --chmod=+x
+	addup = add --chmod=+x
+	shp = show --pretty
+

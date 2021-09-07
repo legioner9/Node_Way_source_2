@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_17\Threads-master\cat.Threads-master\dir.Threads-master.md">Threads-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_17\Threads-master\README.md">README.md</a>
+        - *## Multithreading: WorkerThreads, Workers, SharedWorkers

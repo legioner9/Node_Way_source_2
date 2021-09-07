@@ -1,0 +1,2 @@
+E:\Node_projects\Node_Way\Jobs\C++\Learn_1\ConsoleApplication_First\Debug\ConsoleApplication_First.exe
+E:\Node_projects\Node_Way\Jobs\C++\Learn_1\ConsoleApplication_First\Debug\ConsoleApplication_First.pdb

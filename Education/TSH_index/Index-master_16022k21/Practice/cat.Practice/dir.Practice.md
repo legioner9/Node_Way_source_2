@@ -1,0 +1,11 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Practice\cat.Practice\dir.Practice.md">Practice</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Practice\Index.md">Index.md</a>
+        - *# Практика и проекты
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Practice\SEF1.ru.md">SEF1.ru.md</a>
+        - *# Практические задания
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Practice\SEF3.ru.md">SEF3.ru.md</a>
+        - *# Практика и проекты
+        - *## Возможные варианты:
+        - *## Разрешается (при зазумном обосновании выбора):
+        - *## Если вы делаете свой репозиторий, то он обязательно должен включать:
+        - *## Проекты, в которые можно конрибьютить:

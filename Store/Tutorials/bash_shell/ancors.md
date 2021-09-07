@@ -1,0 +1,1 @@
+## [КАК ЗАПУСТИТЬ BASH СКРИПТ В LINUX](https://wiki.merionet.ru/servernye-resheniya/63/kak-zapustit-bash-skript-v-linux/)

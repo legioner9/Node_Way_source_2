@@ -1,0 +1,33 @@
+[user]
+	email = legioner9@inbox.ru
+	name = Legioner9
+[core]
+	editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+	longpaths = true
+	pager = less -RFX
+[alias]
+	type = cat-file -t
+	dump = cat-file -p
+[color]
+	ui = true
+[diff]
+	name = true
+	tool = kdiff3
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Program Files/KDiff3/kdiff3.exe
+[difftool]
+	prompt = false
+	keepBackup = false
+	trustExitCode = false
+[merge]
+	tool = kdiff3
+[mergetool]
+	prompt = false
+	keepBackup = false
+	keepTemporaries = false
+[mergetool "kdiff3"]
+	path = C:/Program Files/KDiff3/kdiff3.exe

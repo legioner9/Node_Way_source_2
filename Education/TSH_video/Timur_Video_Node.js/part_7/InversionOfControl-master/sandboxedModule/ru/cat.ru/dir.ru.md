@@ -1,0 +1,7 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_7\InversionOfControl-master\sandboxedModule\ru\cat.ru\dir.ru.md">ru</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_7\InversionOfControl-master\sandboxedModule\ru\README.md">README.md</a>
+        - *## Описание
+        - *## Файлы
+        - *## Запуск
+        - *## Задания
+        - *## Дополнительные задания

@@ -1,0 +1,7 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_32\cat.part_32\dir.part_32.md">part_32</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_32\ServeStatic-master\cat.ServeStatic-master\dir.ServeStatic-master.md">ServeStatic-master</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_32\ServeStatic-master\Exercises.ru.md">Exercises.ru.md</a>
+            - *## Упражнения
+        - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_32\ServeStatic-master\README.md">README.md</a>
+            - *# Serve static content with HTTP
+    

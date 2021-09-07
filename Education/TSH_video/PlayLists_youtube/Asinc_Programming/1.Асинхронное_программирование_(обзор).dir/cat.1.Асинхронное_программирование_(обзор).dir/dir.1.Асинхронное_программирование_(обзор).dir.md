@@ -1,0 +1,14 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\Asinc_Programming\1.Асинхронное_программирование_(обзор).dir\cat.1.Асинхронное_программирование_(обзор).dir\dir.1.Асинхронное_программирование_(обзор).dir.md">1.Асинхронное_программирование_(обзор).dir</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\Asinc_Programming\1.Асинхронное_программирование_(обзор).dir\1.Асинхронное_программирование_(обзор).md">1.Асинхронное_программирование_(обзор).md</a>
+        - *# [Асинхронное программирование в Node.js и JavaScript](https://www.youtube.com/watch?v=hY6Z6qNYzmc&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&ab_channel=TimurShemsedinov)
+        - *## callbacks
+        - *## async.js
+        - *## promises
+        - *## async/await
+        - *## generators/yield
+        - *## observable/events 
+        - *## functor + chaining + composition
+        - *## for await + Simbol.asynciterator
+        - *@@ TSH video async programming 5.00 min https://www.youtube.com/watch?v=hY6Z6qNYzmc&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&ab_channel=TimurShemsedinov
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\PlayLists_youtube\Asinc_Programming\1.Асинхронное_программирование_(обзор).dir\ReadMe.md">ReadMe.md</a>
+        - *# [Асинхронное программирование (обзор)](https://youtu.be/hY6Z6qNYzmc)

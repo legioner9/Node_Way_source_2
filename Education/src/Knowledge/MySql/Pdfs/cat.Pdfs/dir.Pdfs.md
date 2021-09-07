@@ -1,0 +1,32 @@
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\cat.Pdfs\dir.Pdfs.md">Pdfs</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\MySql\Pdfs\md.md">md.md</a>
+        - *# SQL Statement	Syntax
+        - *## AND / OR
+        - *## ALTER TABLE
+        - *## AS (alias)
+        - *## BETWEEN
+        - *## CREATE INDEX
+        - *## CREATE VIEW
+        - *## DELETE	
+        - *## DROP DATABASE
+        - *## DROP INDEX
+        - *## DROP TABLE
+        - *## EXISTS
+        - *## GROUP BY
+        - *## HAVING
+        - *## IN
+        - *## INSERT INTO
+        - *## INNER JOIN
+        - *## LEFT JOIN
+        - *## RIGHT JOIN
+        - *## FULL JOIN
+        - *## LIKE
+        - *## ORDER BY	
+        - *## SELECT *	
+        - *## SELECT DISTINCT
+        - *## SELECT INTO
+        - *## SELECT TOP	SELECT TOP number|percent column_name(s)
+        - *## UNION	
+        - *## UNION ALL
+        - *## UPDATE
+        - *## WHERE

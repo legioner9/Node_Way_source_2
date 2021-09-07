@@ -1,0 +1,11 @@
+- <a href = "F:\Node_projects\Node_Way\Education\Education_Store\S_1\cat.S_1\dir.S_1.md">S_1</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\Education_Store\S_1\ReadMe.md">ReadMe.md</a>
+        - *# From  Education\htmlbook.ru\content\
+        - *## favicon 
+        - *## description (описание)
+        - *## keywords (ключевые слова)
+        - *## redirect 
+        - *## relative units
+        - *## absolute units 
+        - *## .htaccess in S_1
+        - *## color 16 bit S_1

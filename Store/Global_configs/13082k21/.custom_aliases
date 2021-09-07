@@ -1,0 +1,2 @@
+alias welcomes='echo "Welcome $USER."'
+alias paths='echo -e ${PATH//:/\\n}'

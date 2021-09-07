@@ -1,0 +1,3 @@
+[All_Path](set.txt)
+
+%homepath%

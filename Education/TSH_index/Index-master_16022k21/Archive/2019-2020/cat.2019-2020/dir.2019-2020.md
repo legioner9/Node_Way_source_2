@@ -1,0 +1,11 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Archive\2019-2020\cat.2019-2020\dir.2019-2020.md">2019-2020</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Archive\2019-2020\Calendar.md">Calendar.md</a>
+        - *# Расписание на весну 2020
+        - *## Запланированные
+        - *## Очередь
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Archive\2019-2020\IP9X.md">IP9X.md</a>
+        - *# Материалы курса IP9X: Основы инженерии программного обеспечения
+        - *## Ссылки
+        - *## Программа на 1й семестр 2019-2020
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Index-master_16022k21\Archive\2019-2020\NodeUA.md">NodeUA.md</a>
+        - *# Расписание NodeUA на 2019-2020

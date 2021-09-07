@@ -1,0 +1,25 @@
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+        - *### A
+        - *###  B
+        - *###  C
+        - *###  D
+        - *###  E
+        - *###  F
+        - *###  G
+        - *###  H
+        - *###  I
+        - *###  K
+        - *###  L
+        - *###  M
+        - *###  N
+        - *###  O
+        - *###  P
+        - *###  Q
+        - *###  R
+        - *###  S
+        - *###  T
+        - *### U
+        - *###  V
+        - *###  X
+        - *###  W

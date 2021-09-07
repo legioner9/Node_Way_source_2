@@ -1,0 +1,17 @@
+ssh-keygen -t rsa -C "user.name@github.com"
+
+Your identification has been saved in C:\Users\79059/.ssh/id_rsa.
+Your public key has been saved in C:\Users\79059/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:OxfJ4LMsHwhbV1dL5UrSzco+bXv84Rb9roepxqAfxO0 legioner9@github.com
+
+https://sergeyvasin.net/2017/03/30/git-ssh/
+git bach
+eval $(ssh-agent -s)
+Теперь нам нужно добавить созданные ключи к ssh-агенту. Сделаем мы это командой:
+
+$ ssh-add ~/.ssh/id_rsa
+
+git clone git@github.com:legioner9/Node_Way_source_1.git
+
+git remote add src_repo git@github.com:legioner9/Node_Way_source_1.git

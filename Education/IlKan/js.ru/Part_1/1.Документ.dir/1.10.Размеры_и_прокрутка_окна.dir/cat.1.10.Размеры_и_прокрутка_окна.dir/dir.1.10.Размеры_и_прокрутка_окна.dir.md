@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.10.Размеры_и_прокрутка_окна.dir\cat.1.10.Размеры_и_прокрутка_окна.dir\dir.1.10.Размеры_и_прокрутка_окна.dir.md">1.10.Размеры_и_прокрутка_окна.dir</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.10.Размеры_и_прокрутка_окна.dir\1.10.Размеры_и_прокрутка_окна.md">1.10.Размеры_и_прокрутка_окна.md</a>
+        - *# [Размеры и прокрутка окна](https://learn.javascript.ru/size-and-scroll-window)

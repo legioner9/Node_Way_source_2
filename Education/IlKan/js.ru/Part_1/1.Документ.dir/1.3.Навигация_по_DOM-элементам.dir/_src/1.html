@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 3px 5px;
+        }
+    </style>
+</head>
+
+<body>
+<table>
+    <tr>
+        <td>1:1</td>
+        <td>2:1</td>
+    </tr>
+    <tr>
+        <td>1:2</td>
+        <td>2:2</td>
+    </tr>
+</table>
+
+<div class="contents">
+    <ul class="book">
+        <li class="chapter">Глава 1</li>
+        <li class="chapter">Глава 2</li>
+    </ul>
+</div>
+<script>
+    debugger
+    let table = document.body.firstElementChild;
+
+    for (let i = 0; i < table.rows.length; i++) {
+        // let row = table.rows[i];
+        // row.cells[i].style.backgroundColor = 'red';
+        table.rows[i].cells[i].style.backgroundColor = 'blue';
+    }
+</script>
+</body>
+</html>

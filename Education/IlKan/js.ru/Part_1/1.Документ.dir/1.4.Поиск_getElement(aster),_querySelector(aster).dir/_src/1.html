@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Сайт об HTML и создании сайтов">
+    <meta name="Keywords" content="HTML, META, метатег, тег, поисковая система">
+    <link type="image/png" sizes="256x256" rel="icon" href="favicon.ico">
+    <!-- redirect <meta http-equiv="refresh" content="5; URL=http://www.htmlbook.ru">-->
+    <!-- only refresh <meta http-equiv="refresh" content="5">-->
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!--    <link rel="stylesheet" type="text/css" href="http://www.mysite.ru/main.css">-->
+    <style type="text/css">
+        H1 {
+            font-size: 150%; /* Размер шрифта */
+            font-family: Verdana, Arial, Helvetica, sans-serif; /* Семейство шрифта */
+            color: #e2777a; /* Цвет текста */
+        }
+    </style>
+</head>
+<!-- <body bgcolor="#FA8E47"> -->
+<!-- <body bgcolor="#c0c0c0" background="favicon.ico">-->
+<body>
+<ul>
+    <li>Этот</li>
+    <li>тест</li>
+</ul>
+<ul>
+    <li>полностью</li>
+    <li>пройден</li>
+</ul>
+
+<a href="http://example.com/file.zip">...</a>
+<a href="http://ya.ru">...</a>
+
+<h1>Содержание</h1>
+
+<div class="contents">
+    <ul class="book">
+        <li class="chapter">Глава 1</li>
+        <li class="chapter">Глава 2</li>
+    </ul>
+</div>
+
+<table id="table">
+    <tr>
+        <td>Ваш возраст:</td>
+
+        <td>
+            <label>
+                <input type="radio" name="age" value="young" checked> младше 18
+            </label>
+            <label>
+                <input type="radio" name="age" value="mature"> от 18 до 50
+            </label>
+            <label>
+                <input type="radio" name="age" value="senior"> старше 60
+            </label>
+        </td>
+    </tr>
+</table>
+
+<form name="my-form">
+    <div class="article">Article</div>
+    <div class="long article">Long article</div>
+</form>
+
+<script>
+    debugger
+    let forms = document.getElementsByName('my-form');
+    // ищем по классу внутри form
+    let articles = forms[0].getElementsByClassName('article');
+    console.log(articles.length); // 2, находим два элемента с классом article
+
+    let inputs = document.getElementById('table').getElementsByTagName('input');
+
+    for (let input of inputs) {
+        console.log(input.value + ': ' + input.checked);
+    }
+    //young: true
+    //mature: false
+    //senior: false
+
+    // может быть любая коллекция вместо document.body.children
+    debugger
+
+    let chapter = document.querySelector('.chapter'); // LI
+
+    console.log(chapter.closest('.book')); // UL
+    console.log(chapter.closest('.contents')); // DIV
+
+    console.log(chapter.closest('h1')); // null (потому что h1 - не предок)
+
+
+    for (let elem of document.body.children) {
+        if (elem.matches('a[href$="zip"]')) { //a[href^="mailto:"] a[href^="tel:+38067"]
+            console.log("Ссылка на архив: " + elem.href);
+        }
+    }
+
+    const elm = document.querySelector('input[value="young"]')
+
+    let elements = document.querySelectorAll('ul > li:last-child');
+
+    for (let elem of elements) {
+        console.log(elem.innerHTML); // "тест", "пройден"
+    }
+    document.body.children[7].children[0].childNodes[0].data = "asdcascqw!!!!!"
+</script>
+</body>

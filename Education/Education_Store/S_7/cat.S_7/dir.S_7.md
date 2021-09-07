@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\Education_Store\S_7\cat.S_7\dir.S_7.md">S_7</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\Education_Store\S_7\Readme.md">Readme.md</a>
+        - *# from <a href="E:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\2.Введение_в_события.dir\2.1.Введение_в_браузерные_события.dir\2.1.Введение_в_браузерные_события.md">2.1.Введение_в_браузерные_события.md</a>

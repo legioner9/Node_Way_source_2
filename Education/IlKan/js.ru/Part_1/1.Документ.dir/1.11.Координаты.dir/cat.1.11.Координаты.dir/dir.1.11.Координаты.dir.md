@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.11.Координаты.dir\cat.1.11.Координаты.dir\dir.1.11.Координаты.dir.md">1.11.Координаты.dir</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\1.Документ.dir\1.11.Координаты.dir\1.11.Координаты.md">1.11.Координаты.md</a>
+        - *# [Координаты](https://learn.javascript.ru/coordinates)

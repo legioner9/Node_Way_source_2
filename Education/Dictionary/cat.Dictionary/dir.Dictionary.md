@@ -1,0 +1,4 @@
+- <a href = "F:\Node_projects\Node_Way\Education\Dictionary\cat.Dictionary\dir.Dictionary.md">Dictionary</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\Dictionary\set_with_translate.md">set_with_translate.md</a>
+        - *# Word and phrase with translate
+        - *@@ Dictionrary end

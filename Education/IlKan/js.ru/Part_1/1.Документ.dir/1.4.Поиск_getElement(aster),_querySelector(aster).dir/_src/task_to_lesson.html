@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<form name="search">
+    <label>Search the site:
+        <input type="text" name="search">
+    </label>
+    <input type="submit" value="Search!">
+</form>
+
+<div class="tr_class"></div>
+
+<hr>
+
+<form class="form_class" name="search-person">
+    Search the visitors:
+    <table id="age-table">
+        <tr class="tr_class">
+            <td>Age:</td>
+            <td id="age-list">
+                <label>
+                    <input type="radio" name="age" value="young">less than 18</label>
+                <label>
+                    <input type="radio" name="age" value="mature">18-50</label>
+                <label>
+                    <input type="radio" name="age" value="senior">more than 50</label>
+            </td>
+        </tr>
+
+        <tr class="tr_class">
+            <td>Additionally:</td>
+            <td>
+                <input type="text" name="info[0]">
+                <input type="text" name="info[1]">
+                <input type="text" name="info[2]">
+            </td>
+        </tr>
+
+    </table>
+
+    <input type="submit" value="Search!">
+</form>
+
+<script>
+    debugger
+    // TRAINING  querySelectorAll
+    const e_1 = document.querySelectorAll('.form_class');//NodeList [form.form_class]
+    const e_2 = document.querySelectorAll('.tr_class');//NodeList(3) [div.tr_class, tr.tr_class, tr.tr_class]
+    const e_3 = document.querySelectorAll('.form_class .tr_class');//NodeList(2) [tr.tr_class, tr.tr_class]
+    const e_4 = document.querySelectorAll('#age-list');//NodeList [td#age-list]
+    const e_5 = document.querySelectorAll('#age-list input[value="young"]');//NodeList [input]
+    const e_6 = document.querySelectorAll('input[name="age"]')//NodeList(3) [input, input, input]
+
+
+
+    //search: id="age-table"
+    const age_table = document.getElementById("age-table"); // table#age-table
+    //Все элементы label внутри этой таблицы
+    const all_label = age_table.getElementsByTagName('label'); //HTMLCollection(3)
+    const all_label_alt = document.querySelectorAll('#age-table label'); //NodeList(3)
+
+    // Первый td в этой таблице (со словом «Age»).
+    const inputs = age_table.getElementsByTagName('input'); //HTMLCollection(6)
+
+    for (let i = 0; i < inputs.length; i++) {
+        if (inputs[i].name === 'age') {
+            console.log('First td in this table with \'Age\' ', inputs[i])
+            break
+        }
+    }
+
+    debugger
+    // Форму form с именем name="search".
+    const forms = document.getElementsByTagName('form'); //HTMLCollection(2)
+    let answer_form;
+    for (let i = 0; i < forms.length; i++) {
+        if (forms[i].name === 'search') {
+            answer_form = forms[i];
+            break
+        }
+    }
+
+    const inputs_a = answer_form.getElementsByTagName('input');
+    const first_input = inputs_a[0];
+    const last_input = inputs_a[inputs_a.length - 1];
+    debugger
+
+</script>
+</body>
+</html>

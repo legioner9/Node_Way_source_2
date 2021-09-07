@@ -1,0 +1,1 @@
+alias welcome='echo "Welcome $USER."'

@@ -1,0 +1,5 @@
+- <a href = "F:\Node_projects\Node_Way\Jobs\FuncStandarts\UseFunctionARHT_1\cat.UseFunctionARHT_1\dir.UseFunctionARHT_1.md">UseFunctionARHT_1</a>
+    - <a href = "F:\Node_projects\Node_Way\Jobs\FuncStandarts\UseFunctionARHT_1\_versions.md">_versions.md</a>
+        - *# init 
+        - *# 1.0.0
+        - *## 1.0.1

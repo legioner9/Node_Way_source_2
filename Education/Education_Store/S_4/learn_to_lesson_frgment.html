@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+<ul id="ul"></ul>
+<ul id="ul_2"></ul>
+
+<script>
+
+    function getListContent() {
+        let fragment = new DocumentFragment();
+        // fragment: document-fragment
+        // fragment.nodeName = "#document-fragment"
+
+        for(let i=1; i<=3; i++) {
+            let li = document.createElement('li');
+            li.append(i);
+            fragment.append(li);
+            debugger
+        }
+
+        return fragment;
+    }
+
+    //fragment.childNodes: NodeList(3) [li, li, li]
+    ul.append(getListContent()); // (*)
+    // fragment after appended  VM304:1 Uncaught ReferenceError: fragment is not defined
+
+    function getListContent_2() {
+        let result = [];
+
+        for(let i=1; i<=3; i++) {
+            let li = document.createElement('li');
+            li.append(i);
+            result.push(li);
+            debugger
+        }
+
+        return result;
+    }
+    // append is multi parameters
+    ul.append(...getListContent_2()); // append + оператор "..." = друзья!
+
+</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "test": "node test/all",
+  "dependencies": {},
+  "devDependencies": {
+    "metatests": "^0.7.2"
+  }
+}

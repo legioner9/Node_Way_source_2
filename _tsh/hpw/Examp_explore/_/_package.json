@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "metatests": "^0.7.2"
+  }
+}

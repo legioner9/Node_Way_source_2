@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_17\Atomics-master\cat.Atomics-master\dir.Atomics-master.md">Atomics-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_17\Atomics-master\README.md">README.md</a>
+        - *## Atomics Operations API

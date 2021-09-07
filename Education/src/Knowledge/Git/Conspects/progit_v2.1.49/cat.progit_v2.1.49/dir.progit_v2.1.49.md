@@ -1,0 +1,73 @@
+- <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\cat.progit_v2.1.49\dir.progit_v2.1.49.md">progit_v2.1.49</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\cat.Mane\dir.Mane.md">Mane</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Mane\mane.md">mane.md</a>
+            - *# Команды консоли
+            - *## Синтаксис
+            - *### &&
+            - *## Файлы
+            - *### notepad
+            - *### more
+            - *### echo
+            - *## Каталоги
+            - *### ls , dir
+            - *### cd
+            - *### md
+            - *### ren
+            - *### rd
+            - *## Система
+            - *# Первоначальная настройка Git
+            - *## Проверка настроек
+            - *## Выбор редактора
+            - *# Создание Git-репозитория
+            - *## Создание репозитория в существующей директории
+            - *## Клонирование существующего репозитория
+            - *## Запись изменений в репозиторий
+            - *### reset 
+            - *### echo
+            - *### .gitignore
+            - *### diff
+            - *### commit
+            - *### rm
+            - *###  mv
+            - *### log
+            - *### graph
+            - *### Операции отмены --amend , reset HEAD  , checkout -- 
+            - *# Работа с удалёнными репозиториями
+            - *## Просмотр удалённых репозиториев
+            - *## Добавление удалённых репозиториев
+            - *## Получение изменений из удалённого репозитория — Fetch и Pull
+            - *## Отправка изменений в удаленный репозиторий (Push)
+            - *## Просмотр удаленного репозитория
+            - *## Удаление и переименование удалённых репозиториев
+            - *# Работа с метками
+            - *## Просмотр списка меток
+            - *## Аннотированные метки
+            - *# Alias Git
+            - *# Основы ветвления и слияния
+    
+    - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cat.Other\dir.Other.md">Other</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\src\Knowledge\Git\Conspects\progit_v2.1.49\Other\cmd_set_comand.md">cmd_set_comand.md</a>
+            - *### A
+            - *###  B
+            - *###  C
+            - *###  D
+            - *###  E
+            - *###  F
+            - *###  G
+            - *###  H
+            - *###  I
+            - *###  K
+            - *###  L
+            - *###  M
+            - *###  N
+            - *###  O
+            - *###  P
+            - *###  Q
+            - *###  R
+            - *###  S
+            - *###  T
+            - *### U
+            - *###  V
+            - *###  X
+            - *###  W
+    

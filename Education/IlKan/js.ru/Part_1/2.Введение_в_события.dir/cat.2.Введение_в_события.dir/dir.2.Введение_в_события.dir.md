@@ -1,0 +1,19 @@
+- <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\2.Введение_в_события.dir\cat.2.Введение_в_события.dir\dir.2.Введение_в_события.dir.md">2.Введение_в_события.dir</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\2.Введение_в_события.dir\2.1.Введение_в_браузерные_события.dir\cat.2.1.Введение_в_браузерные_события.dir\dir.2.1.Введение_в_браузерные_события.dir.md">2.1.Введение_в_браузерные_события.dir</a>
+        - <a href = "F:\Node_projects\Node_Way\Education\IlKan\js.ru\Part_1\2.Введение_в_события.dir\2.1.Введение_в_браузерные_события.dir\2.1.Введение_в_браузерные_события.md">2.1.Введение_в_браузерные_события.md</a>
+            - *# [Введение в браузерные события](https://learn.javascript.ru/introduction-browser-events)
+            - *## События мыши:
+            - *## События на элементах управления:
+            - *## Клавиатурные события:
+            - *## События документа:
+            - *## CSS events:
+            - *## Ways to assign a handler
+            - *### in the attribute 
+            - *### in document field 
+            - *### access to 'this'
+            - *### Call or Link?
+            - *### add event but not assign 
+            - *#### addEventListener
+            - *#### removeEventListener
+            - *@@ continue from this: 
+    

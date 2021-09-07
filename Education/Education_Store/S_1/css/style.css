@@ -1,0 +1,68 @@
+body {
+    background: #8e8989;
+}
+
+/*                   TEXT                    */
+/*
+P {font-family: Arial, serif}
+P {font-style:
+    normal
+    italic
+    oblique
+    }
+P {font-variant:
+    small-caps особые прописные буквы
+    normal
+    }
+P {font-weight:
+    normal - Нормальная жирность
+    lighter - Светлое начертание
+    bold - Полужирный
+    bolder Жирный
+    100 — светлый шрифт
+    900 — самый жирный
+    }
+
+. class_name {
+
+}
+
+
+
+*/
+
+/*               LINKS            */
+
+/*A:link {*/
+/*    text-decoration: none; !* Убирает подчеркивание для ссылок *!*/
+/*}*/
+/*A:visited { text-decoration: none; }*/
+/*A:active { text-decoration: none; }*/
+/*A:hover {*/
+/*    text-decoration: underline; !* Делает ссылку подчеркнутой при наведении на нее курсора *!*/
+/*    color: red; !* Цвет ссылки *!*/
+/*} */
+
+/*                 LISTS                */
+
+/*UL {*/
+/*    list-style-type:
+ square; !* Маркеры в виде квадрата *!*/
+/* disc */
+/* square */
+/* decimal */
+/* circle */
+/* lower-roman  i.*/
+/* upper-roman  I.*/
+/* lower-alpha  a.*/
+/* upper-alpha  A.*/
+
+/*    list-style-position: outside; !* Маркеры размещаются за пределами текстового блока *!*/
+/*    color: navy; !* Цвет текста списка *!*/
+/*}*/
+
+/*Использование изображений в качестве маркера*/
+
+/*LI {*/
+/*    list-style-image: url(images/check.png); !* Путь к файлу с маркером *!*/
+/*}*/

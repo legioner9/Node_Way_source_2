@@ -1,0 +1,30 @@
+<!doctype html>
+<body>
+<a name="list">the list</a>
+<ul>
+    <li><a href="http://google.com">http://google.com</a></li>
+    <li><a href="/tutorial">/tutorial.html</a></li>
+    <li><a href="local/path">local/path</a></li>
+    <li><a href="ftp://ftp.com/my.zip">ftp://ftp.com/my.zip</a></li>
+    <li><a href="http://nodejs.org">http://nodejs.org</a></li>
+    <li><a href="http://internal.com/test">http://internal.com/test</a></li>
+</ul>
+
+<script>
+    // добавление стиля для одной ссылки
+    let links = document.querySelectorAll('a'); //NodeList(7) [a, a, a, a, a, a, a]
+
+
+    for (let link of links) {
+        const href_i = link.getAttribute('href')||'';
+        debugger
+        // not first http://internal.com
+        const a = !href_i.match(/^http:\/\/internal.com/);
+        // contain ://
+        const b = !!~href_i.indexOf('://')
+
+        if (a && b) link.style.color = 'orange';
+    }
+
+</script>
+</body>

@@ -1,0 +1,141 @@
+. ~/git-completion.bash
+. ~/git-prompt.sh
+
+__help(){
+    echo -e "help from ~/.bashrc is Run
+
+s__ :: reload ~/.bashrc and ~/.custom_aliases
+cat__ :: to catigorize _Education _Jobs _Md
+echo_arg :: echo arg 
+copy_bash :: copy ~/.bashrc to Node_Way/Store/WinUser/BashRc_instead/.bashrc
+
+    "
+     
+
+}
+
+iffile() {
+    /C/Bash_scripts/iffile.sh "$@"
+}
+export -f iffile
+
+echo_arg() {
+    echo "$@"
+}
+
+_node(){
+	node /F/Node_projects/Node_Way/Tmp/Hello.js 
+}
+
+# /F/Node_projects/Node_Way/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/ques_2.js
+
+QMR_1_d1(){
+echo 'bash QMR_1_d1() is RUN'
+# полный путь до скрипта
+#	ABSOLUTE_FILENAME=`readlink -e "$0"`
+# каталог в котором лежит скрипт
+#	DIRECTORY=`dirname "$ABSOLUTE_FILENAME"` => 'C:/Program Files/Git/usr/bin'
+
+
+	node /F/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js $(pwd) "$@"
+} 
+
+# E:\Node_projects\Node_Way\node_modules\st_ex1\SetDirFile\SearchDirFile\DirMappingCloneFileToDir_8\Test\main_test.js
+
+QMR_2_d1(){
+echo 'bash QMR_1_d1() is RUN'
+# полный путь до скрипта
+#	ABSOLUTE_FILENAME=`readlink -e "$0"`
+# каталог в котором лежит скрипт
+#	DIRECTORY=`dirname "$ABSOLUTE_FILENAME"` => 'C:/Program Files/Git/usr/bin'
+
+
+	node /F/Node_projects/Node_Way/node_modules/st_ex1_up1/SetCLI/QuesMenuRun/QMR_1_d1/Test/main_test.js $(pwd) "$@"
+	
+} 
+
+# /F/Node_projects/Node_Way/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/index.js
+
+a_d1(){
+echo 'bash m_d1 is RUN'
+# полный путь до скрипта
+#	ABSOLUTE_FILENAME=`readlink -e "$0"`
+# каталог в котором лежит скрипт
+#	DIRECTORY=`dirname "$ABSOLUTE_FILENAME"` => 'C:/Program Files/Git/usr/bin'
+
+
+	node /F/Node_projects/Node_Way/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test/main_test.js $(pwd) "$@"
+	
+} 
+
+a_d1t(){
+    echo 'bash m_d1t is RUN'
+#    echo $(pwd)
+
+    cd /f/Node_projects/Node_Way/node_modules/st_ex1/SetDirFile/CreateDirFile/CreateTechDirHot_1/Test_auto
+   
+#    echo $(pwd)
+    node clear.js
+    m_d1    	
+
+}
+
+s__(){
+    . ~/.bashrc
+    source ~/.custom_aliases
+    echo 'reload ~/.bashrc and ~/.custom_aliases'
+}
+
+sa__(){
+    source ~/.custom_aliases
+}
+
+p_a (){
+node /F/Node_projects/Node_Way/node_modules/st_doc1/nodejs.org_DOCS.v.2/CommandLine/Way/p_a.js "$@"
+}
+
+cat__(){
+    node /F/Node_projects/Node_Way/1_test_ini_module_Education.v.0.1.7.1.js
+    node /F/Node_projects/Node_Way/2_test_ini_module_Jobs.v.0.1.7.1.js
+    node /F/Node_projects/Node_Way/NBase/test_ini_module.v.0.1.7.1__Md.js
+}
+
+copy_bash(){
+
+cp  /C/Users/79059/.bashrc /F/Node_projects/Node_Way/Store/WinUser/BashRc_instead/.bashrc
+
+
+}
+export -f _node
+
+alias welcome='echo "Welcome $USER."'
+
+# Version Control
+alias gs="git status"
+alias gd="git add ."
+alias gp="git push -u origin master"
+
+# Directory
+alias diskusage="df -h"
+alias folderusage="du -ch"
+alias totalfolderusage="du -sh"
+
+# Various
+alias opencustomaliases="code  ~/.custom_aliases"
+alias updatecustomaliases="source ~/.custom_aliases"
+alias updatethenupgrade="sudo apt-get update && sudo apt-get upgrade"
+
+# Несколько команд
+function lazyman() {
+    git add .
+    git commit -a -m "$1"
+    git push -u origin master
+}
+
+# alias iffile = "[ -f $1 ] && echo Файл_существует || echo Файл_не_существует"
+
+# function iffile() {
+# [ -f arg ] && echo Файл_существует || echo Файл_не_существует
+# }
+
+# alias iffi = "/C/Bash_scripts/iffile.sh"

@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 893x435+138+127 175 196
+
+[alias]
+	ls = !ls
+	echoagf = !echo \"agf\"
+
+[include]
+	path = ../gitconfig
+[remote "github_l9"]
+	url = git@github.com:legioner9/Node_Way_source_1.git
+	fetch = +refs/heads/*:refs/remotes/github_l9/*
+[remote "disk_tosh"]
+	url = D:Node_Way_Repo_third
+	fetch = +refs/heads/*:refs/remotes/disk_tosh/*
+[remote "usb_32"]
+	url = I:Node_Way_repo
+	fetch = +refs/heads/*:refs/remotes/usb_32/*

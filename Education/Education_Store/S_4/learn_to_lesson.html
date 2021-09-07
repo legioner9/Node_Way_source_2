@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<style>
+    .alert {
+        padding: 15px;
+        border: 1px solid #d6e9c6;
+        border-radius: 4px;
+        color: #3c763d;
+        background-color: #dff0d8;
+    }
+</style>
+<div id="message" class="alert">Alert class</div>
+
+<div st_reper="center">That st_reper</div>
+
+<div id="id_div_to_remove" class="alert">Message id="id_div" class="alert" will be remove after 1 sec</div>
+
+<div id="first">Первый</div>
+<div id="second">Второй</div>
+
+<script>
+    debugger
+    let message_clone = message.cloneNode(true);
+
+    // if id more than once message: HTMLCollection(2)
+    message_clone.style.color = "red";
+
+    message.before(message_clone)
+
+    second.after(first); // берёт #second и после него вставляет #first
+
+
+    document.id_timer = document.createElement('p');
+
+    id_div_to_remove.append(document.id_timer);
+
+    document.i = 5000;
+    document.interval = setInterval(function () {
+        document.id_timer.innerText = document.i;
+        document.i -= 1000;
+
+        console.log(document.i, this);
+        if (document.i === 0) {
+            clearInterval(document.interval);
+            id_div_to_remove.remove();
+        }
+    }, 1000)
+
+    // setTimeout(() => id_div_to_remove.remove(), 5000)
+
+
+    let div_value = document.createElement('div')
+    const InnerHTML = (node, html) => {
+        node.innerHTML = html
+    }
+
+
+    const reper = document.querySelector('[st_reper="center"]');
+    InnerHTML(div_value, '<p>append</p>')
+    reper.append(div_value);
+    // <div st_reper="center">That st_reper<div><p>append</p></div></div>
+
+    InnerHTML(div_value, '<p>prepend</p>')
+    reper.prepend(div_value);
+    // <div st_reper="center"><div><p>prepend</p></div>That st_reper</div>
+
+    InnerHTML(div_value, '<p>before</p>')
+    reper.before(div_value);
+    // <div><p>before</p></div>
+    // <div st_reper="center"></div>
+
+    InnerHTML(div_value, '<p>after</p>')
+    reper.after(div_value);
+    // <div st_reper="center"></div>
+    // <div><p>after</p></div>
+
+    InnerHTML(div_value, '<p>replaceWith</p>')
+    reper.replaceWith(div_value);
+    // <div><p>replaceWith</p></div>
+
+
+</script>
+</body>
+</html>

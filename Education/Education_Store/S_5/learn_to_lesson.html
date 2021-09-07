@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+
+        #id_div {
+            color: blue;
+        }
+
+        .class_div {
+            color: red;
+            margin: 5px
+        }
+
+    </style>
+</head>
+<body>
+
+<div id="id_div" class="class_div">Красный текст</div>
+
+<script>
+    // !!!  css cascade #id_div more priority than .class_div => color = blue
+
+    const div_js = document.querySelector('div')
+    const style = div_js.style.color //  ""
+    const get_style = getComputedStyle(div_js)
+    //CSSStyleDeclaration {0: "align-content", 1: "align-
+    const get_style_color = getComputedStyle(div_js).color
+    // "rgb(0, 0, 255)"
+    const get_style_borderBSC = get_style.borderBlockStartColor
+    // "rgb(0, 0, 255)"
+    const get_style_borderBSC_ancor = get_style.borderBlockStartColor.anchor();
+    // "<a name="undefined">rgb(0, 0, 255)</a>"
+    debugger
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Current\cat.Current\dir.Current.md">Current</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Current\Functional.md">Functional.md</a>
+        - *# Функциональное программирование
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Current\Fundamentals.md">Fundamentals.md</a>
+        - *# Основы программирования
+        - *## Ссылки
+        - *## 1 семестр 1 курса
+        - *## 2 семестр 1 курса (материалы готовятся)
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_index\Current\OOP.md">OOP.md</a>
+        - *# Объектно-ориентированное программирование

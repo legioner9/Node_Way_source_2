@@ -1,0 +1,7 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_9\InterProcessCommunication-master\cat.InterProcessCommunication-master\dir.InterProcessCommunication-master.md">InterProcessCommunication-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_9\InterProcessCommunication-master\README.md">README.md</a>
+        - *## Межпроцессовое взаимодействие
+        - *### Через IPC в node.js
+        - *### Через TCP сокеты
+        - *## Задания
+        - *## Дополнительные задания

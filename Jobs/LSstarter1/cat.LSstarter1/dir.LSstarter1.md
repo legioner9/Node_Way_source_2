@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Jobs\LSstarter1\cat.LSstarter1\dir.LSstarter1.md">LSstarter1</a>
+    - <a href = "F:\Node_projects\Node_Way\Jobs\LSstarter1\README.md">README.md</a>
+        - *## User's Manual

@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_25\CQS-master\cat.CQS-master\dir.CQS-master.md">CQS-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_Node.js\part_25\CQS-master\README.md">README.md</a>
+        - *## CQS - Command-query separation principle

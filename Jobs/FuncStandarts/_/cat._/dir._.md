@@ -1,0 +1,5 @@
+- <a href = "F:\Node_projects\Node_Way\Jobs\FuncStandarts\_\cat._\dir._.md">_</a>
+    - <a href = "F:\Node_projects\Node_Way\Jobs\FuncStandarts\_\_versions.md">_versions.md</a>
+        - *# init 
+        - *# 1.0.0
+        - *## 1.0.1

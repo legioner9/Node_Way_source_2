@@ -1,0 +1,265 @@
+# Этот файл viminfo автоматически создан Vim 8.2.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Командная строка, история (начиная от свежего к старому):
+
+# Строка поиска, история (начиная от свежего к старому):
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+
+# Глобальные отметки:
+'0  14  0  C:\Program Files (x86)\Vim\vim82\README.txt
+|4,48,14,0,1628788248,"C:\\Program Files (x86)\\Vim\\vim82\\README.txt"
+'1  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,49,1,0,1628788152,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+'2  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,50,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+'3  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,51,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+'4  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,52,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+'5  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,53,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+'6  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,54,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+'7  205  0  ~\AppData\Local\Temp\$tutor$
+|4,55,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+'8  99  0  C:\Program Files (x86)\Vim\vim82\README.txt
+|4,56,99,0,1628745372,"C:\\Program Files (x86)\\Vim\\vim82\\README.txt"
+'9  99  0  C:\Program Files (x86)\Vim\vim82\README.txt
+|4,57,99,0,1628745372,"C:\\Program Files (x86)\\Vim\\vim82\\README.txt"
+
+# Список прыжков (сначала более свежие):
+-'  14  0  C:\Program Files (x86)\Vim\vim82\README.txt
+|4,39,14,0,1628788248,"C:\\Program Files (x86)\\Vim\\vim82\\README.txt"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\README.txt
+|4,39,1,0,1628788240,"C:\\Program Files (x86)\\Vim\\vim82\\README.txt"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,1,0,1628788152,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,1,0,1628788152,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  63  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,63,0,1628788134,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,1,0,1628788127,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+|4,39,1,0,1628788127,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.vim"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628788118,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  29  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,29,0,1628787771,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  1  0  C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+|4,39,1,0,1628787765,"C:\\Program Files (x86)\\Vim\\vim82\\tutor\\tutor.ru"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+-'  205  0  ~\AppData\Local\Temp\$tutor$
+|4,39,205,0,1628745824,"~\\AppData\\Local\\Temp\\$tutor$"
+
+# История местных отметок (от более свежих к старым):
+
+> C:\Program Files (x86)\Vim\vim82\README.txt
+	*	1628788242	0
+	"	14	0
+
+> C:\Program Files (x86)\Vim\vim82\tutor\tutor.vim
+	*	1628788148	0
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim82\tutor\tutor.ru
+	*	1628788118	0
+	"	1	0
+
+> ~\AppData\Local\Temp\$tutor$
+	*	1628745701	0
+	"	205	0

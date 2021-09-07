@@ -1,0 +1,48 @@
+sistem env create: setx /m MYWEBPC "C:\mywebpc"
+user env create: setx MYWEBPC "C:\News\"
+remove env: setx MYWEBPC ""
+
+cmd>set > this_file.txt
+
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\79059\AppData\Roaming
+ChocolateyInstall=C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate=132540754480740714
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-4F0UQTT
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+HOMEPATH=\Users\79059
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;
+LOCALAPPDATA=C:\Users\79059\AppData\Local
+LOGONSERVER=\\DESKTOP-4F0UQTT
+NUMBER_OF_PROCESSORS=8
+OneDrive=C:\Users\79059\OneDrive
+OneDriveConsumer=C:\Users\79059\OneDrive
+OS=Windows_NT
+Path=C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\GitExtensions\;C:\Users\79059\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;C:\Users\79059\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\79059\AppData\Roaming\npm;C:\Users\79059\AppData\Local\Markdown Monster
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=2a07
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\79059\AppData\Local\Temp
+TMP=C:\Users\79059\AppData\Local\Temp
+USERDOMAIN=DESKTOP-4F0UQTT
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-4F0UQTT
+USERNAME=79059
+USERPROFILE=C:\Users\79059
+windir=C:\Windows

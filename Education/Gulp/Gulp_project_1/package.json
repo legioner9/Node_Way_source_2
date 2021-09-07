@@ -1,0 +1,19 @@
+{
+  "name": "gulp_project_1",
+  "version": "1.0.0",
+  "description": "gulp, web",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "web"
+  ],
+  "author": "legioner9",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2"
+  }
+}

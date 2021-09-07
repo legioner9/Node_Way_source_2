@@ -1,0 +1,3 @@
+- <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\part_18\Memoization-master\cat.Memoization-master\dir.Memoization-master.md">Memoization-master</a>
+    - <a href = "F:\Node_projects\Node_Way\Education\TSH_video\Timur_Video_JS\part_18\Memoization-master\README.md">README.md</a>
+        - *## Мемоизация функций: memoize в JavaScript
