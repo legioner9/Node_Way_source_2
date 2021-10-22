@@ -1,11 +1,11 @@
-const { arht } = require ( 'st_ini_arht' );
+const { arht } = require('st_ini_arht');
 
-const anls = require ( 'st_ini_catFs' ).anlsFs_1;
-arht.before ( anls, module );
+const anls = require('st_ini_catFs').anlsFs_1;
+arht.before(anls, module);
 
-const funcExamp = require ( 'F:\\Node_projects\\Node_Way\\Jobs\\CataloguerFs\\CreateCatalog\\AFP5_0.1_ctlg_1_to_2.v.0.1.7.2\\index.js' );
+const funcExamp = require('F:\\Node_projects\\Node_Way\\Jobs\\CataloguerFs\\CreateCatalog\\AFP5_0.1_ctlg_1_to_2.v.0.1.7.2\\index.js');
 
-arht.before ( funcExamp, module );
+arht.before(funcExamp, module);
 
 // MODE for behavior
 // funcExamp.mode.log = true;
@@ -16,7 +16,7 @@ arht.before ( funcExamp, module );
 
 anls.preset = { if_basename: false };
 
-const res = anls ( 'Jobs' );
+const res = anls('Jobs');
 
 // anlsFs_1.mode.deb = true;
 // funcExamp ( anls ( 'DIR_root' ) , tags , ignore_dir_PrEq , ignore_file_PrEq , delete_file_FnIo, ignore_dir_FnIo )
@@ -32,8 +32,8 @@ P.S
 - meth(preextend equal)
 - meth(baseName equal)
 */
-funcExamp ( res, [ '#', '@@' ,'%' ], [ 'excd' ], [ 'excf' ]
-    ,['deg.forDelete'],['node_modules','node_modules_']);
+funcExamp(res, ['#', '@@', '%'], ['excd'], ['excf']
+  , ['deg.forDelete'], ['node_modules', 'node_modules_']);
 
-console.log ( '\n\nThe END __________________________ process.exit ( 0 )\n\n' );
-process.exit ( 0 );
+console.log('\n\nThe END __________________________ process.exit ( 0 )\n\n');
+process.exit(0);
