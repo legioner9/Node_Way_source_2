@@ -1,36 +1,55 @@
+## GRASP
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2
-
+## Metarhia & Node.js
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f
-
+## Объектно-ориентированное программирование
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-
-
+## Базы данных
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt
-
+## Архив
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZtQJO5Qt1eUwMdo1aMOasd
-
+## Школа JavaScript 2018
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQaTMM6ybKEfdXMAX0CQ6Hvm
-
+## Антипаттерны, рефакторинг и ревью кода 
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQb3PVcPFAUI-ZgtAMkpq9yV
-
+## Летняя школа 2017
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQYsRgMIyq8ILP-5M_moUc7b
-
+## Браузерные приложения
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQaI1L1jB0-3FDEOaaCJchZP
-
+## Параллельное программирование
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZDYtU8ioC5raX6hxPyWjhx
-
+## Архитектура программных систем
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQYGZLuEc92Sp0uO2fhoSslz
-
+## Функциональное программирование
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZGa7hYnwBQufg9XXoJr5LP
-
+## Паттерны / шаблоны
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm
-
+## Асинхронное программирование
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T
-
+## Node.js
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ
-
+## Основы программирования 1
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0
-
+## Разные хорошие лекции
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQb4sVDBsN5y14X4BoAUU6Sh
-
+## Metarhia
 https://www.youtube.com/playlist?list=PLHhi8ymDMrQY8settDxzdTGnnb1GZ_oQC
+## Основы программирования
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke
+## Практические задачи
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq
+## Летняя школа Metarhia Summer Camp 2022
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQYEncnRabYxnNfRFLrnK9Gp
+## Новости технологического стека Metarhia
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQYLF8pCsXevLCSZnrT-vCJf
+## Backend семинары: Node.js, JavaScript и другие языки и платформы
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw
+## Публичное собеседование: JavaScript, Node.js, TypeScript, Java, Python, Swift
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQZIC0Py5pekvdH49rkXH_MJ
+## JavaScript и другие языки, основы программирования
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQaimbjo6jNb32vrzvSNJlac
+## JavaScript для начинающих
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A
+## Metaeducation
+https://www.youtube.com/playlist?list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu
 
